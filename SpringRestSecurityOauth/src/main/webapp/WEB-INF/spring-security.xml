@@ -77,7 +77,7 @@
 	<sec:authentication-manager alias="authenticationManager">
 		<sec:authentication-provider>
 		<sec:user-service>
-		<sec:user name="LACO8990" password="desarrollo" authorities="ROLE_APP"/>
+		<sec:user name="beingjavaguys" password="spring@java" authorities="ROLE_APP"/>
 		</sec:user-service>
 		</sec:authentication-provider>
 	</sec:authentication-manager>
