@@ -1,6 +1,13 @@
 SpringSecurityOAuth2
 ====================
 
+
+
+Updated Version avilable here: https://www.codeburps.com/post/spring-boot-oauth2-for-server-to-server-security
+
+
+
+
 Securing Restful Web Services with Spring Security and OAuth2 
 <br/><br/><br/>
 The flow of application will go something like this:<br/><br/>
