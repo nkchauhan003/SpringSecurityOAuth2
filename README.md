@@ -1,14 +1,8 @@
-SpringSecurityOAuth2
-====================
+## Updated Version avilable here: https://www.codeburps.com/post/spring-boot-oauth2-for-server-to-server-security
 
 
 
-Updated Version avilable here: https://www.codeburps.com/post/spring-boot-oauth2-for-server-to-server-security
-
-
-
-
-Securing Restful Web Services with Spring Security and OAuth2 
+### Securing Restful Web Services with Spring Security and OAuth2 
 <br/><br/><br/>
 The flow of application will go something like this:<br/><br/>
 1) User sends a GET request to server with five parameters: grant_type,  username, password, client_id, client_secret;  something like this
